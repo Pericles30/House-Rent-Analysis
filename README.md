@@ -1,4 +1,4 @@
-# House-Rent-Analysis
+# House-Rent-Analysis-Research-Review
 The primary objectives of this study are to:
 1. 2. 3. Analyze the factors influencing house rent prices.
 Develop a machine learning model to predict house rent prices based on
